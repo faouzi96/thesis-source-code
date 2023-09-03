@@ -1,0 +1,1 @@
+- For the second Approach the dataset was split manually inot testing and training datasets for every feature
